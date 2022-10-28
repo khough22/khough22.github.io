@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1013</title>
+  </head>
+
+  <body>
+    <h1>CS-I Journal J1013: Boolean Algebra</h1>
+    <p>Name: Kalista Hough</p>
+    <p>Date: 14-Sept-2022</p>
+
+    <p>I received assistance from: N/A</p>
+    <p>I assisted: N/A</p>
+
+    <h2>Section 1</h2>
+    <h3>Question 1: Why is one of the symbols used for exclusive disfunction the three lines with a slash through it?</h3>
+    <p>It is meaning that the inputs are not the same value.</p>
+
+    <h2>Section 2</h2>
+    <h3>Question 1: Why is the formula for determining the number of rows in a truth table related only to the number of inputs, and why is the formula 2 to the power of n?</h3>
+    <p>There are two rows and there wont be an output without an input.</p>
+    <h3>Question 2: This is the second question in section 2.</h3>
+    <p>This is an answer in the format of a full sentence.</p>
+
+    <h2>What did I learn? What is the "big idea"?</h2>
+    <p>I learned that...</p>
+
+    <h2>What challenges did I encounter?</h2>
+    <p>I encountered challlenges when...</p>
+
+    <h2>How could this experience be improved?</h2>
+    <p>This experience could be improved by...</p>
+
+    <h2>Free Reflection: How has what I've learned affected my thinking?</h2>
+    <p>I now realize that...</p>
+
+  </body>
+</html>

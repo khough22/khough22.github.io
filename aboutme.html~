@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+      a:link, a:visited {
+	  background-color: #c6de;
+	  color: white;
+	  padding: 15px 25px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+      }
+
+      a:hover, a:active {
+	  background-color: purple;
+      }
+    </style>
+  </head>
+  <body>
+
+    <a href="/users/kalista-hough/Digital%20Portfolio/index.html" target="_self">Home</a>
+
+    </body>
+    <title>About Me</title>
+  </head>
+
+  <body>
+    <h2>About Me</h2>
+    <p>Name: Kalista Hough</p>
+    <p>Age: 17</p>
+    <p>Birthday: November 16</p>
+    <p>Hobbies: Playing video games and playing club soccer
+  
+
+  </body>
+  </html>

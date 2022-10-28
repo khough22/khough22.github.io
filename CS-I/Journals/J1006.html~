@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>CS-I Journal J1006</title>
+  </head>
+
+  <body>
+    <h1>CS-I Journal J1006: Source Control</h1>
+    <p>Name: Kalista Hough</p>
+    <p>Date: 1-Sept-2022</p>
+
+    <p>I received assistance from: N/A</p>
+    <p>I assisted: N/A</p>
+
+    <h2>Section 1</h2>
+    <h3>Question 1. What is Git communicating to you?</h3>
+    <p>Branch 'master doesnt have any commits.</p>
+    <h3>Question 2. What do you see that is common between git log command and the previous git command?</h3>
+    <p>They both dont have anything in them.</p>
+    <h3>Question 3. Why do you think this is?</h3>
+    <p>Since there are no commits in the log it wont show in the commit command.</p>  
+    <h2>Section 2</h2>
+    <h3>Question 1: What do you notice about file 1.txt and file 2.txt? How are they displayed in git status?</h3>
+    <p>File 2 is untracked while File 1 is green.</p>
+    <h3>Question 2: Are they both displayed in teh same section? If not, why not?</h3>
+    <p>No, because file 2 hasn't been commited.</p>
+    <h2>Section 3</h2>
+    <h3>Question 1. What do you notice about file1.txt and file2.txt? How are they displayed in git status?</h3>
+    <p>They are both green and together.</p>
+    <h3>Question 2. Compare and Contrast the manner in which the two files are displayed.</h3>
+    <p>They are both green and added as new files. They are on different lines though</p>  
+    <h2>Section 4</h2>
+    <h3>Question 1. How many files are listed as having been changed?</h3>
+    <p>4</p>
+    <h3>Question 2. What are the specific differences listed for each file? In what color is the difference displayed?</h3>
+    <p>The numbers are different and one is green and the other is red</p>
+    <h2>Section 5</h2>
+    <h3>Question 1. What does Git tell you has changed? Why?</h3>
+    <p>There is no new file</p>
+    <hr>  
+    <h2>What did I learn? What is the "big idea"?</h2>
+    <p>I learned that source control helps manage changes to our codes.</p>
+
+    <h2>What challenges did I encounter?</h2>
+    <p>I encountered challlenges when trying to see the files show up.</p>
+
+    <h2>How could this experience be improved?</h2>
+    <p>This experience could be improved by doing the right git commands in order.</p>
+
+    <h2>Free Reflection: How has what I've learned affected my thinking?</h2>
+    <p>I now realize that there are new ways to manage and track the new codes that you make.</p>
+
+  </body>
+</html>
